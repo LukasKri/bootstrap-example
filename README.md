@@ -6,7 +6,7 @@ I have an awesome startup idea. I think.
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [Knowledge](#knowledge)
+* [Gained knowledge](#gained-knowledge)
 * [Screenshot](#screenshot)
 * [Status](#status)
 * [Inspiration](#inspiration)
