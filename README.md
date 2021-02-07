@@ -1,12 +1,13 @@
 # TinCat
 
-> I have an awesome startup idea. I think.
+I have an awesome startup idea. I think.
 
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Knowledge](#knowledge)
+* [Screenshot](#screenshot)
 * [Status](#status)
 * [Inspiration](#inspiration)
 * [Contact](#contact)
@@ -27,6 +28,9 @@ All you need is just a web browser and the internet connection.
 * Advanced CSS elements
 * Containers and grid system
 * Web page responsiveness
+
+## Screenshot
+![screenshot](https://user-images.githubusercontent.com/23439837/107153044-2bfc2600-6974-11eb-90c9-1711623fbc99.png)
 
 ## Status
 Project is: _in progress_, because I still need to establish a company, launch an app and become the next Zuckerberg.
