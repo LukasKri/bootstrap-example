@@ -21,7 +21,7 @@ I've made a website for an awesome startup company called TinCat. If you have a 
 * Bootstrap v4.6
 
 ## Setup
-All you need is just a web browser and the internet connection.
+All you need is just a web browser and internet access.
 
 ## Gained knowledge
 * Content delivery networks (CDNs) implementation
