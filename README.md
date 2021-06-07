@@ -1,6 +1,6 @@
 # TinCat
 
-I have an awesome startup idea. I think.
+I have an awesome startup idea. I think. 
 
 ## Live demo
 https://lukaskri.github.io/bootstrap-example/
