@@ -2,6 +2,9 @@
 
 I have an awesome startup idea. I think.
 
+## Live demo
+https://lukaskri.github.io/bootstrap-example/
+
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
